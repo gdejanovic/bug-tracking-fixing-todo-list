@@ -1,5 +1,6 @@
 # todo list
 Simple list to track my code bugs feel free to use!
+made using bootstrap
 
 Instructions: pop the tab with the app out of the browser and have it opened until you are done.
 No local storage used only current web cache.
