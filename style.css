@@ -1,0 +1,37 @@
+.mainCard{
+    width: 50%;
+    border-radius: 15px;
+    color:white;
+    background: url(/bg.png);
+
+}
+
+
+.heading{
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+.form{
+    max-width: 50%;
+    margin: auto;
+}
+
+.table{
+    max-width: 50%;
+    margin: 10px auto;
+    color:white;
+}
+
+
+body{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+*{
+    font-size: 1vw;
+}
